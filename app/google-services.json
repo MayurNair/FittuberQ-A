@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801258333140",
+    "firebase_url": "https://fittubertrial1.firebaseio.com",
+    "project_id": "fittubertrial1",
+    "storage_bucket": "fittubertrial1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801258333140:android:fbe2d8dad133624d57ac41",
+        "android_client_info": {
+          "package_name": "com.example.fittubertrial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801258333140-ti1vq07884judtaqqq0rgnacl5sc1r0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArhKK20FkJs1U_DI4GjZSxrJn0rEy84_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801258333140-ti1vq07884judtaqqq0rgnacl5sc1r0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
